@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yherall&color=blue" alt="Profile Views">
   <a href="https://www.linkedin.com/in/yeraldotoledo/">
-    <img src="https://img.shields.io/badge/-Yeraldo%20Toledo%20Gatica-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-**Yeraldo%20Toledo%20Gatica**-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
