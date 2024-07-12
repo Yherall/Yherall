@@ -4,8 +4,12 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yherall&color=blue)
-[![Linkedin](https://img.shields.io/badge/-Yeraldo+Toledo+Gatica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/yeraldotoledo/)](https://www.linkedin.com/in/yeraldotoledo/)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yherall&color=blue" alt="Profile Views">
+  <a href="https://www.linkedin.com/in/yeraldotoledo/">
+    <img src="https://img.shields.io/badge/-Yeraldo-Toledo-Gatica-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ![Snake animation](https://github.com/Yherall/Yherall/blob/main/Yherall_grid-snake.svg)
 
