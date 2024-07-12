@@ -21,6 +21,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 
+## 🔍 Resumen
+Me gusta el trabajo en equipo, es fundamental para lograr los resultados, siempre estoy dispuesto a aprender, soy un novato en este mundo.
+
+https://www.credly.com/users/yeraldo-toledo/
+
 ## 📬 Contacto
 
 - **Correo:** yeraldotoledo@gmail.com
