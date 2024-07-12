@@ -11,18 +11,15 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Yherall/Yherall/blob/main/Yherall_grid-snake.svg" alt="Snake animation">
-</div>
-
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Aprendidas de Momento
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 
 ## 🔍 Resumen
-Me gusta el trabajo en equipo, es fundamental para lograr los resultados, siempre estoy dispuesto a aprender, soy un novato en este mundo.
+
+# Me gusta el trabajo en equipo, es fundamental para lograr los resultados, siempre estoy dispuesto a aprender, soy un novato en este mundo.
 
 https://www.credly.com/users/yeraldo-toledo/
 
